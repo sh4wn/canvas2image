@@ -263,3 +263,7 @@ var Canvas2Image = function () {
 	};
 
 }();
+
+if(module){
+    module.exports = Canvas2Image
+}
